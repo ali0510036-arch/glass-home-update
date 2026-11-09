@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "3.34",
-  "apk": "https://raw.githubusercontent.com/ali0510036-arch/glass-home-update/main/GlassHome.apk",
+  "versionCode": 58,
+  "versionName": "3.40",
+  "apk": "https://github.com/ali0510036-arch/glass-home-update/releases/download/v3.40/GlassHome.apk",
   "notes": "Обновление по кнопке в настройках"
 }
